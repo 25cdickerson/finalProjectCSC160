@@ -1,0 +1,506 @@
+[
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "Missing",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Yes",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Yes",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MORROW",
+    "Age": "65+ years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "Yes",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "COSHOCTON",
+    "Age": "0 - 17 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "MAHONING",
+    "Age": "18 to 49 years",
+    "Gender": "Male",
+    "Race": "Multiple/Other",
+    "Hospitalized": "No",
+    "Death": "No"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "CLINTON",
+    "Age": "18 to 49 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "CLINTON",
+    "Age": "18 to 49 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "CLINTON",
+    "Age": "18 to 49 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "FULTON",
+    "Age": "0 - 17 years",
+    "Gender": "Male",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "CLINTON",
+    "Age": "18 to 49 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  },
+  {
+    "County": "MUSKINGUM",
+    "Age": "50 to 64 years",
+    "Gender": "Female",
+    "Race": "NA",
+    "Hospitalized": "No",
+    "Death": "NA"
+  },
+  {
+    "County": "BROWN",
+    "Age": "0 - 17 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "Unknown"
+  },
+  {
+    "County": "CLINTON",
+    "Age": "18 to 49 years",
+    "Gender": "NA",
+    "Race": "NA",
+    "Hospitalized": "Missing",
+    "Death": "NA"
+  }
+]

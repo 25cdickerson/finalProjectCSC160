@@ -1,0 +1,32 @@
+[
+  {
+    "race": "White",
+    "noAccess": 7.29,
+    "access": 92.71
+  },
+  {
+    "race": "Black",
+    "noAccess": 11.73,
+    "access": 88.27
+  },
+  {
+    "race": "Asian",
+    "noAccess": 23.14,
+    "access": 76.86
+  },
+  {
+    "race": "American Indian/Alaska Native",
+    "noAccess": 19.91,
+    "access": 80.09
+  },
+  {
+    "race": "NA",
+    "noAccess": 23.46,
+    "access": 76.54
+  },
+  {
+    "race": "Multiple/Other",
+    "noAccess": 13.35,
+    "access": 86.65
+  }
+]

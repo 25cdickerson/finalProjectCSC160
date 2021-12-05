@@ -1,0 +1,530 @@
+[
+  {
+    "CTYNAME": "Franklin",
+    "pop2021": 1334870,
+    "GrowthRate": "14.4632",
+    "popDensity": "2919.9727"
+  },
+  {
+    "CTYNAME": "Cuyahoga",
+    "pop2021": 1221780,
+    "GrowthRate": "-4.4058",
+    "popDensity": "2672.5930"
+  },
+  {
+    "CTYNAME": "Hamilton",
+    "pop2021": 821529,
+    "GrowthRate": "2.3995",
+    "popDensity": "1797.0606"
+  },
+  {
+    "CTYNAME": "Summit",
+    "pop2021": 540333,
+    "GrowthRate": "-0.2422",
+    "popDensity": "1181.9560"
+  },
+  {
+    "CTYNAME": "Montgomery",
+    "pop2021": 531861,
+    "GrowthRate": "-0.6975",
+    "popDensity": "1163.4238"
+  },
+  {
+    "CTYNAME": "Lucas",
+    "pop2021": 425820,
+    "GrowthRate": "-3.5371",
+    "popDensity": "931.4636"
+  },
+  {
+    "CTYNAME": "Butler",
+    "pop2021": 385402,
+    "GrowthRate": "4.4161",
+    "popDensity": "843.0509"
+  },
+  {
+    "CTYNAME": "Stark",
+    "pop2021": 369322,
+    "GrowthRate": "-1.6117",
+    "popDensity": "807.8765"
+  },
+  {
+    "CTYNAME": "Lorain",
+    "pop2021": 311395,
+    "GrowthRate": "3.2895",
+    "popDensity": "681.1636"
+  },
+  {
+    "CTYNAME": "Warren",
+    "pop2021": 239916,
+    "GrowthRate": "12.4102",
+    "popDensity": "524.8063"
+  },
+  {
+    "CTYNAME": "Lake",
+    "pop2021": 230243,
+    "GrowthRate": "0.0996",
+    "popDensity": "503.6470"
+  },
+  {
+    "CTYNAME": "Mahoning",
+    "pop2021": 227617,
+    "GrowthRate": "-4.5155",
+    "popDensity": "497.9027"
+  },
+  {
+    "CTYNAME": "Delaware",
+    "pop2021": 217349,
+    "GrowthRate": "24.1292",
+    "popDensity": "475.4419"
+  },
+  {
+    "CTYNAME": "Clermont",
+    "pop2021": 208232,
+    "GrowthRate": "5.3784",
+    "popDensity": "455.4988"
+  },
+  {
+    "CTYNAME": "Trumbull",
+    "pop2021": 196844,
+    "GrowthRate": "-6.1933",
+    "popDensity": "430.5881"
+  },
+  {
+    "CTYNAME": "Medina",
+    "pop2021": 181282,
+    "GrowthRate": "5.0855",
+    "popDensity": "396.5468"
+  },
+  {
+    "CTYNAME": "Licking",
+    "pop2021": 179254,
+    "GrowthRate": "7.5277",
+    "popDensity": "392.1107"
+  },
+  {
+    "CTYNAME": "Greene",
+    "pop2021": 171919,
+    "GrowthRate": "6.3934",
+    "popDensity": "376.0657"
+  },
+  {
+    "CTYNAME": "Portage",
+    "pop2021": 162394,
+    "GrowthRate": "0.6246",
+    "popDensity": "355.2301"
+  },
+  {
+    "CTYNAME": "Fairfield",
+    "pop2021": 160758,
+    "GrowthRate": "9.7946",
+    "popDensity": "351.6514"
+  },
+  {
+    "CTYNAME": "Clark",
+    "pop2021": 133193,
+    "GrowthRate": "-3.6746",
+    "popDensity": "291.3542"
+  },
+  {
+    "CTYNAME": "Wood",
+    "pop2021": 131569,
+    "GrowthRate": "4.4613",
+    "popDensity": "287.8017"
+  },
+  {
+    "CTYNAME": "Richland",
+    "pop2021": 121488,
+    "GrowthRate": "-2.1536",
+    "popDensity": "265.7500"
+  },
+  {
+    "CTYNAME": "Wayne",
+    "pop2021": 115550,
+    "GrowthRate": "1.0105",
+    "popDensity": "252.7608"
+  },
+  {
+    "CTYNAME": "Miami",
+    "pop2021": 108877,
+    "GrowthRate": "6.2349",
+    "popDensity": "238.1639"
+  },
+  {
+    "CTYNAME": "Allen",
+    "pop2021": 101603,
+    "GrowthRate": "-4.4707",
+    "popDensity": "222.2523"
+  },
+  {
+    "CTYNAME": "Columbiana",
+    "pop2021": 100703,
+    "GrowthRate": "-6.6614",
+    "popDensity": "220.2836"
+  },
+  {
+    "CTYNAME": "Ashtabula",
+    "pop2021": 96549,
+    "GrowthRate": "-4.7868",
+    "popDensity": "211.1969"
+  },
+  {
+    "CTYNAME": "Geauga",
+    "pop2021": 93057,
+    "GrowthRate": "-0.3555",
+    "popDensity": "203.5583"
+  },
+  {
+    "CTYNAME": "Tuscarawas",
+    "pop2021": 91803,
+    "GrowthRate": "-0.7996",
+    "popDensity": "200.8152"
+  },
+  {
+    "CTYNAME": "Muskingum",
+    "pop2021": 86383,
+    "GrowthRate": "0.1960",
+    "popDensity": "188.9592"
+  },
+  {
+    "CTYNAME": "Ross",
+    "pop2021": 76230,
+    "GrowthRate": "-2.3919",
+    "popDensity": "166.7500"
+  },
+  {
+    "CTYNAME": "Hancock",
+    "pop2021": 75509,
+    "GrowthRate": "1.0979",
+    "popDensity": "165.1728"
+  },
+  {
+    "CTYNAME": "Scioto",
+    "pop2021": 74982,
+    "GrowthRate": "-5.8772",
+    "popDensity": "164.0200"
+  },
+  {
+    "CTYNAME": "Erie",
+    "pop2021": 73772,
+    "GrowthRate": "-4.1648",
+    "popDensity": "161.3732"
+  },
+  {
+    "CTYNAME": "Belmont",
+    "pop2021": 65952,
+    "GrowthRate": "-6.2289",
+    "popDensity": "144.2673"
+  },
+  {
+    "CTYNAME": "Athens",
+    "pop2021": 64943,
+    "GrowthRate": "-0.3529",
+    "popDensity": "142.0601"
+  },
+  {
+    "CTYNAME": "Jefferson",
+    "pop2021": 64427,
+    "GrowthRate": "-7.5255",
+    "popDensity": "140.9314"
+  },
+  {
+    "CTYNAME": "Marion",
+    "pop2021": 64425,
+    "GrowthRate": "-3.0591",
+    "popDensity": "140.9270"
+  },
+  {
+    "CTYNAME": "Knox",
+    "pop2021": 63166,
+    "GrowthRate": "3.3983",
+    "popDensity": "138.1730"
+  },
+  {
+    "CTYNAME": "Union",
+    "pop2021": 61400,
+    "GrowthRate": "17.0326",
+    "popDensity": "134.3099"
+  },
+  {
+    "CTYNAME": "Washington",
+    "pop2021": 59511,
+    "GrowthRate": "-3.5681",
+    "popDensity": "130.1778"
+  },
+  {
+    "CTYNAME": "Pickaway",
+    "pop2021": 59217,
+    "GrowthRate": "6.2379",
+    "popDensity": "129.5347"
+  },
+  {
+    "CTYNAME": "Lawrence",
+    "pop2021": 58855,
+    "GrowthRate": "-5.7174",
+    "popDensity": "128.7429"
+  },
+  {
+    "CTYNAME": "Sandusky",
+    "pop2021": 58074,
+    "GrowthRate": "-4.6169",
+    "popDensity": "127.0345"
+  },
+  {
+    "CTYNAME": "Huron",
+    "pop2021": 58070,
+    "GrowthRate": "-2.5017",
+    "popDensity": "127.0257"
+  },
+  {
+    "CTYNAME": "Seneca",
+    "pop2021": 55146,
+    "GrowthRate": "-2.5999",
+    "popDensity": "120.6296"
+  },
+  {
+    "CTYNAME": "Ashland",
+    "pop2021": 53040,
+    "GrowthRate": "-0.5270",
+    "popDensity": "116.0228"
+  },
+  {
+    "CTYNAME": "Darke",
+    "pop2021": 50741,
+    "GrowthRate": "-4.1954",
+    "popDensity": "110.9938"
+  },
+  {
+    "CTYNAME": "Shelby",
+    "pop2021": 48526,
+    "GrowthRate": "-1.6677",
+    "popDensity": "106.1486"
+  },
+  {
+    "CTYNAME": "Logan",
+    "pop2021": 46352,
+    "GrowthRate": "1.3314",
+    "popDensity": "101.3931"
+  },
+  {
+    "CTYNAME": "Auglaize",
+    "pop2021": 45496,
+    "GrowthRate": "-0.8759",
+    "popDensity": "99.5206"
+  },
+  {
+    "CTYNAME": "Madison",
+    "pop2021": 45415,
+    "GrowthRate": "4.5609",
+    "popDensity": "99.3434"
+  },
+  {
+    "CTYNAME": "Holmes",
+    "pop2021": 44042,
+    "GrowthRate": "3.6941",
+    "popDensity": "96.3400"
+  },
+  {
+    "CTYNAME": "Highland",
+    "pop2021": 43379,
+    "GrowthRate": "-0.5548",
+    "popDensity": "94.8898"
+  },
+  {
+    "CTYNAME": "Brown",
+    "pop2021": 43156,
+    "GrowthRate": "-3.8049",
+    "popDensity": "94.4020"
+  },
+  {
+    "CTYNAME": "Fulton",
+    "pop2021": 41844,
+    "GrowthRate": "-1.8415",
+    "popDensity": "91.5320"
+  },
+  {
+    "CTYNAME": "Clinton",
+    "pop2021": 41734,
+    "GrowthRate": "-0.4485",
+    "popDensity": "91.2914"
+  },
+  {
+    "CTYNAME": "Mercer",
+    "pop2021": 41612,
+    "GrowthRate": "2.0202",
+    "popDensity": "91.0245"
+  },
+  {
+    "CTYNAME": "Crawford",
+    "pop2021": 41514,
+    "GrowthRate": "-5.1195",
+    "popDensity": "90.8102"
+  },
+  {
+    "CTYNAME": "Preble",
+    "pop2021": 40624,
+    "GrowthRate": "-3.6661",
+    "popDensity": "88.8633"
+  },
+  {
+    "CTYNAME": "Ottawa",
+    "pop2021": 40037,
+    "GrowthRate": "-3.1964",
+    "popDensity": "87.5793"
+  },
+  {
+    "CTYNAME": "Champaign",
+    "pop2021": 39085,
+    "GrowthRate": "-2.4777",
+    "popDensity": "85.4968"
+  },
+  {
+    "CTYNAME": "Guernsey",
+    "pop2021": 38603,
+    "GrowthRate": "-3.8650",
+    "popDensity": "84.4425"
+  },
+  {
+    "CTYNAME": "Defiance",
+    "pop2021": 38083,
+    "GrowthRate": "-2.5562",
+    "popDensity": "83.3050"
+  },
+  {
+    "CTYNAME": "Coshocton",
+    "pop2021": 36608,
+    "GrowthRate": "-0.8934",
+    "popDensity": "80.0785"
+  },
+  {
+    "CTYNAME": "Williams",
+    "pop2021": 36598,
+    "GrowthRate": "-2.4366",
+    "popDensity": "80.0566"
+  },
+  {
+    "CTYNAME": "Perry",
+    "pop2021": 36324,
+    "GrowthRate": "0.7964",
+    "popDensity": "79.4572"
+  },
+  {
+    "CTYNAME": "Morrow",
+    "pop2021": 35758,
+    "GrowthRate": "2.7824",
+    "popDensity": "78.2191"
+  },
+  {
+    "CTYNAME": "Putnam",
+    "pop2021": 33979,
+    "GrowthRate": "-1.4416",
+    "popDensity": "74.3277"
+  },
+  {
+    "CTYNAME": "Jackson",
+    "pop2021": 32507,
+    "GrowthRate": "-2.2287",
+    "popDensity": "71.1077"
+  },
+  {
+    "CTYNAME": "Hardin",
+    "pop2021": 31259,
+    "GrowthRate": "-2.7018",
+    "popDensity": "68.3778"
+  },
+  {
+    "CTYNAME": "Gallia",
+    "pop2021": 29804,
+    "GrowthRate": "-4.0808",
+    "popDensity": "65.1950"
+  },
+  {
+    "CTYNAME": "Van_Wert",
+    "pop2021": 28319,
+    "GrowthRate": "-1.2518",
+    "popDensity": "61.9466"
+  },
+  {
+    "CTYNAME": "Fayette",
+    "pop2021": 28269,
+    "GrowthRate": "-2.5677",
+    "popDensity": "61.8373"
+  },
+  {
+    "CTYNAME": "Hocking",
+    "pop2021": 28078,
+    "GrowthRate": "-4.7493",
+    "popDensity": "61.4195"
+  },
+  {
+    "CTYNAME": "Adams",
+    "pop2021": 27706,
+    "GrowthRate": "-2.9120",
+    "popDensity": "60.6057"
+  },
+  {
+    "CTYNAME": "Pike",
+    "pop2021": 27452,
+    "GrowthRate": "-4.0542",
+    "popDensity": "60.0501"
+  },
+  {
+    "CTYNAME": "Henry",
+    "pop2021": 26836,
+    "GrowthRate": "-4.7389",
+    "popDensity": "58.7026"
+  },
+  {
+    "CTYNAME": "Carroll",
+    "pop2021": 26578,
+    "GrowthRate": "-7.8624",
+    "popDensity": "58.1383"
+  },
+  {
+    "CTYNAME": "Meigs",
+    "pop2021": 22593,
+    "GrowthRate": "-4.7954",
+    "popDensity": "49.4212"
+  },
+  {
+    "CTYNAME": "Wyandot",
+    "pop2021": 21480,
+    "GrowthRate": "-4.9053",
+    "popDensity": "46.9866"
+  },
+  {
+    "CTYNAME": "Paulding",
+    "pop2021": 18532,
+    "GrowthRate": "-5.2411",
+    "popDensity": "40.5380"
+  },
+  {
+    "CTYNAME": "Harrison",
+    "pop2021": 14786,
+    "GrowthRate": "-6.5656",
+    "popDensity": "32.3438"
+  },
+  {
+    "CTYNAME": "Noble",
+    "pop2021": 14578,
+    "GrowthRate": "-0.5593",
+    "popDensity": "31.8888"
+  },
+  {
+    "CTYNAME": "Morgan",
+    "pop2021": 14362,
+    "GrowthRate": "-4.4699",
+    "popDensity": "31.4163"
+  },
+  {
+    "CTYNAME": "Monroe",
+    "pop2021": 13388,
+    "GrowthRate": "-8.3579",
+    "popDensity": "29.2857"
+  },
+  {
+    "CTYNAME": "Vinton",
+    "pop2021": 12965,
+    "GrowthRate": "-3.2824",
+    "popDensity": "28.3604"
+  }
+]
